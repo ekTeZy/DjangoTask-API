@@ -1,7 +1,5 @@
 # **Tasks API (на Django + DRF)**
 
-### **Установка и запуск**  
-
 **Установить зависимости:**  
 ```bash
 pip install -r requirements.txt
